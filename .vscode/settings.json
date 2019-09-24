@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "xlocale": "cpp",
+        "system_error": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp"
+    }
+}
